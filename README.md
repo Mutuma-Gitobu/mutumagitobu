@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mutuma! Cybersecurity student..
+# 👋 Hi, I’m Mutuma! A Cybersecurity student..
 
 - 🌱 I’m currently learning Google Cybersecurity Professional Certificate
 - 💞️ I’m looking to collaborate on Cybersecurity
